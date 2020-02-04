@@ -1,0 +1,5 @@
+slno	groceri	price	order	total
+1	totmato	20	2	40
+2	onion	60	3	180
+3	patato	30	4	120
+4	rice	45	3	135	
